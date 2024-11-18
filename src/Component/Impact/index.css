@@ -1,0 +1,39 @@
+.impact-top-cont{
+    width: Fixed (1,234px)px;
+    height: Hug (123px)px;
+    margin-top: 40px;
+    margin-left: 103px;
+    margin-right: 103px;
+    padding: 10px;
+}
+.impact-head-cont{
+    /* font-family: Inter; */
+    font-size: 36px;
+    font-weight: 600;
+    letter-spacing: -0.02em;
+}
+.impact-para-cont{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: justify;
+    color: #667085;
+}
+.impact-bott-cont{
+    width: Fixed (1,234px)px;
+    height: Hug (123px)px;
+    margin-left: 103px;
+    margin-right: 103px;
+    padding: 10px;
+}
+.impact-bott-head-cont{
+    line-height: 30px;
+    text-align: left;
+}
+.impact-bott-para-cont{
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+    color: #667085;
+}

@@ -1,0 +1,29 @@
+.slack-top-cont{
+    width: 850px;
+    /* height: Hug (538px)px; */
+    margin-left: 103px;
+    margin-right: 90px;
+    margin-top: 80px;
+    margin: auto;
+    padding: 40px;
+    padding-top: 130px;
+}
+.slack-bott-cont{
+    /* width: Fixed (1,440px)px; */
+    height: Fixed (109px)px;
+    margin-top: 80px;
+    padding: 21px 112px 21px 112px;
+    gap: 10px;
+    background: linear-gradient(90deg, #6B2AF4 37.5%, #F5EFFE 100%);
+}
+.slack-bott-cont-butt{
+    width: Hug (142.57px)px;
+    /* height: Hug (41.8px)px; */
+    padding: 11.4px 2px 11.4px 20px;
+    padding: 5px 10px 5px 10px;
+    gap: 9.12px;
+    color: white;
+    background: rgba(107, 42, 245, 1);
+    font-size: 14px;
+    font-weight: 500;
+}
